@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# Mac OS X Finder directory files
+.DS_Store
+
+# Goland files
+.idea/
+
+# End of https://www.toptal.com/developers/gitignore/api/go
+`
